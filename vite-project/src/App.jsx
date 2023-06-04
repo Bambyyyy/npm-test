@@ -20,6 +20,7 @@ function App() {
   return (
     <>
       <h1>NPM Test by Jesper Flood</h1>
+      <h2>Extra h2 upplagd i appen</h2>
       <button onClick={printText1}>Click me!</button>
       <p>{print1}</p>
       <button onClick={printText2}>Click me next!</button>
